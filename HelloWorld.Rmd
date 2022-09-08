@@ -1,0 +1,10 @@
+---
+title: "R_markdown_Ian"
+author: "Ian"
+date: "2022-09-08"
+output:
+  word_document: default
+  html_document: default
+---
+
+## This is a markdown file
